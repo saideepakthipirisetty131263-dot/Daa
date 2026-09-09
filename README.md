@@ -32,7 +32,7 @@ Both iterative and recursive methods successfully calculate the factorial of a n
 # Summary
 The Making Change Problem is solved using Dynamic Programming by breaking the problem into smaller subproblems. An array is used to store the minimum number of coins required for each amount. Previously calculated results are reused, which makes the algorithm more efficient than repeatedly solving the same subproblems.
 
-Conclusion
+# Conclusion
 The Making Change Problem demonstrates the importance of Dynamic Programming in solving optimization problems. The algorithm successfully finds the minimum number of coins needed to make a given amount. It provides an efficient solution with a time complexity of O(amount × number of coins) and can be applied to various real-world problems involving resource allocation and optimization.
 
 # Practical_5
